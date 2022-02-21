@@ -1,0 +1,68 @@
+body {
+  font-family: futura-pt, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #8497CB;
+  background-color: #FFFFFFFF;
+}
+
+h1 {
+  font-family: futura-pt, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #506BB4;
+  background-color: #FFFFFFFF;
+}
+
+#name {
+  text-align: center;
+  padding: 0px;
+}
+
+h4 {
+  font-family: futura-pt, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #506BB4;
+  background-color: #FFFFFFFF;
+}
+
+#pronouns {
+  text-align: center;
+  position: relative;
+  top: -12px;
+}
+
+a:link {
+  color: #082F96;
+  background-color: #FFFFFFFF;
+}
+
+a:visited {
+  color: #8497CB;
+  background-color: #FFFFFFFF;
+}
+
+a:hover {
+  color: #DB2054;
+  background-color: #FFFFFFFF;
+}
+
+a:active {
+  color: #506BB4;
+  background-color: #FFFFFFFF;
+}
+
+div {
+  font-size: 15px;
+  text-align: center;
+  position: relative;
+  top: -15px;
+  bottom: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
