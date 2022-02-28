@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Encyclopedia Page</title>
+  </head>
+  <body>
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:3px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 10px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 10px;word-break:normal;}
+.tg .tg-5koo{background-color:#a8d79f;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-ivz0{background-color:#1f8e0a;border-color:inherit;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-5koo">&#9820;</td>
+    <td class="tg-ivz0">&#9822;</td>
+    <td class="tg-5koo">&#9821;</td>
+    <td class="tg-ivz0">&#9819;</td>
+    <td class="tg-5koo">&#9818;</td>
+    <td class="tg-ivz0">&#9821;</td>
+    <td class="tg-5koo">&#9822;</td>
+    <td class="tg-ivz0">&#9820;</td>
+  </tr>
+  <tr>
+    <td class="tg-ivz0">&#9823;</td>
+    <td class="tg-5koo">&#9823;</td>
+    <td class="tg-ivz0">&#9823;</td>
+    <td class="tg-5koo">&#9823;</td>
+    <td class="tg-ivz0">&#9823;</td>
+    <td class="tg-5koo">&#9823;</td>
+    <td class="tg-ivz0">&#9823;</td>
+    <td class="tg-5koo">&#9823;</td>
+  </tr>
+  <tr>
+    <td class="tg-5koo">&#160;</td>
+    <td class="tg-ivz0">&#160;</td>
+    <td class="tg-5koo">&#160;</td>
+    <td class="tg-ivz0">&#160;</td>
+    <td class="tg-5koo">&#160;</td>
+    <td class="tg-ivz0">&#160;</td>
+    <td class="tg-5koo">&#160;</td>
+    <td class="tg-ivz0">&#160;</td>
+  </tr>
+  <tr>
+    <td class="tg-ivz0">&#160;</td>
+    <td class="tg-5koo">&#160;</td>
+    <td class="tg-ivz0">&#160;</td>
+    <td class="tg-5koo">&#160;</td>
+    <td class="tg-ivz0">&#160;</td>
+    <td class="tg-5koo">&#160;</td>
+    <td class="tg-ivz0">&#160;</td>
+    <td class="tg-5koo">&#160;</td>
+    <tr>
+      <td class="tg-5koo">&#160;</td>
+      <td class="tg-ivz0">&#160;</td>
+      <td class="tg-5koo">&#160;</td>
+      <td class="tg-ivz0">&#160;</td>
+      <td class="tg-5koo">&#160;</td>
+      <td class="tg-ivz0">&#160;</td>
+      <td class="tg-5koo">&#160;</td>
+      <td class="tg-ivz0">&#160;</td>
+    </tr>
+    <tr>
+      <td class="tg-ivz0">&#160;</td>
+      <td class="tg-5koo">&#160;</td>
+      <td class="tg-ivz0">&#160;</td>
+      <td class="tg-5koo">&#160;</td>
+      <td class="tg-ivz0">&#160;</td>
+      <td class="tg-5koo">&#160;</td>
+      <td class="tg-ivz0">&#160;</td>
+      <td class="tg-5koo">&#160;</td>
+    </tr>
+    <tr>
+      <td class="tg-5koo">&#9817;</td>
+      <td class="tg-ivz0">&#9817;</td>
+      <td class="tg-5koo">&#9817;</td>
+      <td class="tg-ivz0">&#9817;</td>
+      <td class="tg-5koo">&#9817;</td>
+      <td class="tg-ivz0">&#9817;</td>
+      <td class="tg-5koo">&#9817;</td>
+      <td class="tg-ivz0">&#9817;</td>
+    </tr>
+    <tr>
+      <td class="tg-ivz0">&#9814;</td>
+      <td class="tg-5koo">&#9816;</td>
+      <td class="tg-ivz0">&#9815;</td>
+      <td class="tg-5koo">&#9813;</td>
+      <td class="tg-ivz0">&#9812;</td>
+      <td class="tg-5koo">&#9815;</td>
+      <td class="tg-ivz0">&#9816;</td>
+      <td class="tg-5koo">&#9814;</td>
+</thead>
+</table>
+
+  </body>
+</html>
