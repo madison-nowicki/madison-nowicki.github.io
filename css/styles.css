@@ -73,17 +73,12 @@ img {
     flex-wrap: wrap;
     background-color: #FFFFFFFF;
   }
-
-  p {
-    background-color: pink;
-  }
 }
 
-@media screen and (min-width: 1900px; min-height: 1100px;) {
+@media screen and (max-width: 1900px; max-height: 1100px;) {
   div {
     display: flex;
     flex-wrap: wrap;
     background-color: #FFFFFFFF;
   }
-
 }
