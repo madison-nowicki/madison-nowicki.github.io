@@ -69,9 +69,10 @@ img {
 
 @media screen and (max-width: 400px; max-height: 700px;) {
   div {
-    display: flex;
-    flex-flow: row wrap;
-    background-color: orange;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    background-color: yellow;
+    padding: 20px;
   }
 }
 
