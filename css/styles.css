@@ -74,13 +74,16 @@ img {
     background-color: #FFFFFFFF;
   }
 
+  p {
+    background-color: pink;
+  }
 }
 
 @media screen and (min-width: 1900px; min-height: 1100px;) {
   div {
     display: flex;
     flex-wrap: wrap;
-    background-color: red;
+    background-color: #FFFFFFFF;
   }
 
 }
