@@ -68,11 +68,10 @@ img {
 }
 
 @media screen and (max-width: 400px; max-height: 700px;) {
-  div {
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr;
-    background-color: yellow;
-    padding: 20px;
+  .topnav {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #FFFFFFFF;
   }
 }
 
