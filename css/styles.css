@@ -71,7 +71,7 @@ img {
   .topnav {
     display: flex;
     flex-flow: row wrap;
-    background-color: #FFFFFFFF;
+    background-color: blue;
   }
 }
 
