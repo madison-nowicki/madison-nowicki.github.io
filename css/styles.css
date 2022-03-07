@@ -68,10 +68,10 @@ img {
 }
 
 @media screen and (max-width: 400px; max-height: 700px;) {
-  .topnav {
+  div {
     display: flex;
     flex-flow: row wrap;
-    background-color: blue;
+    background-color: #FFFFFFFF;
   }
 }
 
