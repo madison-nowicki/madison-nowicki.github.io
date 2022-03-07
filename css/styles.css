@@ -80,7 +80,7 @@ img {
   div {
     display: flex;
     flex-wrap: wrap;
-    background-color: #FFFFFFFF;
+    background-color: red;
   }
 
 }
