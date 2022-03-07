@@ -69,14 +69,18 @@ img {
 
 @media screen and (min-width: 400px; min-height: 700px;) {
   div {
-
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #FFFFFFFF;
   }
 
 }
 
 @media screen and (min-width: 1900px; min-height: 1100px;) {
   div {
-
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #FFFFFFFF;
   }
 
 }
