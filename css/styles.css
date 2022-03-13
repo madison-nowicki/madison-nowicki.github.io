@@ -1,4 +1,4 @@
-#name {
+.title {
   font-family: futura-pt, sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -16,13 +16,10 @@
 
 .topnav {
   font-family: futura-pt, sans-serif;
-  font-weight: 300;
+  font-weight: 500;
   font-style: normal;
   text-align: center;
-  margin-top: 5px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 5px;
+  margin: center;
   display: flex;
   flex-grow: 4;
   width: 100%;
