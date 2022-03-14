@@ -1,106 +1,53 @@
-.title {
-  font-family: futura-pt, sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  text-align: center;
-  margin-top: 250px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 500px;
-  border: 2.5px solid #506BB4;
-  padding: 10px;
-  display: flex;
-  flex-grow: 1;
-  width: 30%;
-}
-
 .topnav {
   font-family: futura-pt, sans-serif;
-  font-weight: 500;
-  font-style: normal;
-  text-align: center;
-  margin: center;
+  font-size: 18px;
+  font-weight: 115;
   display: flex;
-  flex-grow: 4;
-  width: 100%;
+  gap: 1.5rem;
+  width: 700px;
+  padding: 15px;
+  justify-content: left;
 }
 
-body {
+.title {
   font-family: futura-pt, sans-serif;
+  font-size: 55px;
   font-weight: 400;
   font-style: normal;
-  color: #8497CB;
   background-color: #FFFFFFFF;
-}
-
-h1 {
-  font-family: futura-pt, sans-serif;
-  font-weight: 600;
-  font-style: normal;
   color: #506BB4;
-  background-color: #FFFFFFFF;
-}
-
-h4 {
-  font-family: futura-pt, sans-serif;
-  font-weight: 500;
-  font-style: normal;
-  color: #506BB4;
-  background-color: #FFFFFFFF;
-}
-
-#pronouns {
   text-align: center;
-  position: relative;
-  top: -12px;
-}
-
-a:link {
-  color: #082F96;
-  background-color: #FFFFFFFF;
-}
-
-a:visited {
-  color: #8497CB;
-  background-color: #FFFFFFFF;
-}
-
-a:hover {
-  color: #DB2054;
-  background-color: #FFFFFFFF;
-}
-
-a:active {
-  color: #506BB4;
-  background-color: #FFFFFFFF;
-}
-
-div {
-  font-size: 15px;
-  text-align: center;
-  position: relative;
-  top: -15px;
-  bottom: 20px;
-}
-
-img {
-  display: block;
-  margin-left: auto;
+  margin-top: 10rem;
   margin-right: auto;
+  margin-left: auto;
+  border: 3px solid #506BB4;
+  width: 45%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
 }
 
-@media screen and (max-width: 400px; max-height: 700px;) {
-  div {
-    display: flex;
-    flex-flow: row wrap;
-    background-color: #FFFFFFFF;
-  }
+.navbuttons {
+  flex: 1;
+  background-color: #FFFFFFFF;
+  color: #8497CB;
+  border: 1.5px solid;
+  padding: 0.5rem;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.5s ease-out .1s;
 }
 
-@media screen and (min-width: 1900px; min-height: 1100px;) {
-  div {
-    display: flex;
-    flex-flow: row wrap;
-    background-color: #FFFFFFFF;
-  }
+.navbuttons:hover {
+  background-color: #DB2054;
+  color: #FFFFFFFF;
+  opacity: 25%;
+}
+
+#profilepic {
+  border: none;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+
 }
