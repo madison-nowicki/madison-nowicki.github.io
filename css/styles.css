@@ -109,6 +109,21 @@ h3 {
   justify-content: center;
 }
 
+.assignments:link {
+  color: #082F96;
+  background-color: #FFFFFFFF;
+}
+
+.assignments:hover {
+  background-color: #FFFFFFFF;
+  color: #DB2054;
+}
+
+.assignments:visited {
+  background-color: #FFFFFFFF;
+  color: #8497CB;
+}
+
 .email {
     font-family: futura-pt, sans-serif;
     font-size: 22px;
