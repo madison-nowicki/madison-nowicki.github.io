@@ -17,7 +17,7 @@
   background-color: #FFFFFFFF;
   color: #506BB4;
   text-align: center;
-  margin-top: 20rem;
+  margin-top: 10rem;
   margin-right: auto;
   margin-left: auto;
   border: 3px solid #506BB4;
@@ -67,18 +67,32 @@
   position: fixed;
   bottom: 20px;
   left: 20px;
-
 }
 
 .description {
   font-family: futura-pt, sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 90;
   display: flex;
-  width: 900px;
-  padding: 15px;
+  width: 576px;
+  margin-right: auto;
+  margin-left: auto;
   text-decoration: none;
   justify-content: center;
+  padding: 0px;
+}
+
+h3 {
+  font-family: futura-pt, sans-serif;
+  font-size: 22px;
+  font-weight: 40;
+  background-color: #FFFFFFFF;
+  color: black;
+  display: flex;
+  margin-left: -465px;
+  text-decoration: none;
+  justify-content: center;
+  margin-bottom: -2px;
 }
 
 .assignments {
@@ -87,19 +101,21 @@
   font-weight: 90;
   display: flex;
   gap: 1.5rem;
-  width: 100%;
+  width: 37%;
   padding: 15px;
   text-decoration: none;
   justify-content: center;
 }
 
-.contactpage {
-  font-family: futura-pt, sans-serif;
-  font-size: 15px;
-  font-weight: 90;
-  display: flex;
-  width: 900px;
-  padding: 15px;
-  text-decoration: none;
-  justify-content: center;
+.email {
+    font-family: futura-pt, sans-serif;
+    font-size: 22px;
+    font-weight: 40;
+    background-color: #FFFFFFFF;
+    color: black;
+    display: flex;
+    width: 1200px;
+    text-decoration: none;
+    justify-content: center;
+    margin-top: 0px;
 }
