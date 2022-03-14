@@ -128,7 +128,6 @@ h3 {
     flex-flow: row wrap;
     background-color: #FFFFFFFF;
   }
-}
 
 @media screen (min-width: 1900px) and (min-height: 1100px) {
   div {
