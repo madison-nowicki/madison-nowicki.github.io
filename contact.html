@@ -5,25 +5,30 @@
     <meta name="viewport"
     content="width=device-width, initial-scale=1">
     <title>Contact</title>
-    <link rel= "stylesheet" href= "./css/styles.css">
+    <link rel="stylesheet" href= "./css/styles.css">
     <link rel="stylesheet" href="https://use.typekit.net/tae6myh.css">
   </head>
   <body>
     <nav class="topnav">
-      <a class="navbuttons" href="#home">home</a>
+      <a class="navbuttons" href="index.html">home</a>
       <a class="navbuttons" href="about.html">about</a>
       <a class="navbuttons" href="work.html">my work</a>
       <a class="navbuttons" href="contact.html">contact</a>
     </nav>
     <h1 class=title>contact me</h1>
     <div id="profilepic">
-      <a href="https://www.linkedin.com/in/madisonnowicki/">
+      <a href="https://www.linkedin.com/in/madisonnowicki/"></a>
       <img src="./img/profilepic.jpg" alt="This is me!" width=100px height=auto>
     </div>
     <div>
-      <p> name:</p>
-      <p> email:</p>
-      <p> message:</p>
+      <form class="contactpage" action="/action_page.php">
+        <label for="name">name:</label><br>
+        <input type="text" id="name" name="name" value="">
+        <label for="email">email:</label><br>
+        <input type="text" id="email" name="email" value="">
+        <label for="message">message:</label><br>
+        <input type="text" id="message" name="message" value="">
+      </form>
     </div>
   </body>
 </html>
