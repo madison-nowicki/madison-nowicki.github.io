@@ -1,5 +1,12 @@
-document.querySelector('.titlename').addEventListener('hover', changeColor());
+const titlename = document.querySelector('h1');
 
-function changeColor() {
-  document.getElementsByClassName('titlename').style.color = #E05194;
+titlename.addEventListener('mouseover', changeColor);
+
+function changeColor () {
+  titlename.style.color = '#E05194';
 }
+
+document.querySelector('html').addEventListener('click',
+function() {
+  alert('This is my site!');
+});
