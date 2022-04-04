@@ -1,6 +1,5 @@
-function changeColor(newColor) {
-  var elem = document.getElementById('titlename');
-  elem.style.color = #E05194;
-}
+document.querySelector('.titlename').addEventListener('hover', changeColor());
 
-document.querySelector('h1').addEventListener('hover', changeColor);
+function changeColor() {
+  document.getElementsByClassName('titlename').style.color = #E05194;
+}
