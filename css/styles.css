@@ -82,6 +82,19 @@
   padding: 0px;
 }
 
+h1 {
+  font-family: futura-pt, sans-serif;
+  font-size: 47px;
+  font-weight: 40;
+  background-color: #FFFFFFFF;
+  color: black;
+  display: flex;
+  margin-left: 0px;
+  text-decoration: none;
+  justify-content: center;
+  margin-bottom: -2px;
+}
+
 h3 {
   font-family: futura-pt, sans-serif;
   font-size: 22px;
@@ -93,6 +106,33 @@ h3 {
   text-decoration: none;
   justify-content: center;
   margin-bottom: -2px;
+}
+
+p {
+  font-family: futura-pt, sans-serif;
+  font-size: 16px;
+  font-weight: 90;
+  display: flex;
+  width: 576px;
+  margin-right: auto;
+  margin-left: auto;
+  text-decoration: none;
+  justify-content: center;
+  padding: 0px;
+}
+
+button {
+    font-family: futura-pt, sans-serif;
+    font-size: 16px;
+    font-weight: 90;
+    display: flex;
+    width: 576px;
+    margin-right: auto;
+    margin-left: auto;
+    text-decoration: none;
+    justify-content: center;
+    padding: 0px;
+  }
 }
 
 .assignments {
@@ -135,6 +175,12 @@ h3 {
     text-decoration: none;
     justify-content: center;
     margin-top: 0px;
+}
+
+#photo {
+  width: 22%;
+  margin-left: 39%;
+  padding-top: 2%;
 }
 
 @media screen (max-width: 400px) and (max-height: 700px) {
