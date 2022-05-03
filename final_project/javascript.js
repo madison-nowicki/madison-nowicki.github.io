@@ -1,4 +1,4 @@
-photos = ["./clairebakes/pumpkinmuffins.png", "./clairebakes/lemoncake.png", "./clairebakes/lemonbundt.png", "./clairebakes/cupcakes.png", "./clairebakes/bananachipmuffins.png"]
+photos = ["./final_project/clairebakes/pumpkinmuffins.png", "./final_project/clairebakes/lemoncake.png", "./final_project/clairebakes/lemonbundt.png", "./final_project/clairebakes/cupcakes.png", "./final_project/clairebakes/bananachipmuffins.png"]
 
 captions = ["@williamssonoma gf pumpkin muffins are the first things I baked when I realized I really enjoyed the process 🍁 they’re one of my favorite easy bakes and make the kitchen smell happy 💖 Id like to make more requested recipes and discuss requested topics in my captions! I’ll put a story up to ask for requests — can be related to recipe development, baking at altitude, gluten free questions, ED recovery related, or you can request a recipe! Please give me your feedback, I love connecting with family and friends here 😇 All love Xx #clairebakes",
 
