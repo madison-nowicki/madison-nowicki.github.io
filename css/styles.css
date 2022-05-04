@@ -182,7 +182,7 @@ button {
   padding-top: 2%;
 }
 
-@media only screen and (max-width: 700px) {
+@media screen and (max-width: 400px) {
   div {
       display: flex;
       flex-flow: row wrap;
@@ -190,7 +190,7 @@ button {
   }
 }
 
-@media only screen and (min-width: 701px) {
+@media screen and (min-width: 1900px) {
   div {
       display: flex;
       flex-flow: row wrap;
